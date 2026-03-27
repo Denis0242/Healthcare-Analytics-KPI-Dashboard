@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+prefect
+ydata-profiling
+matplotlib
+seaborn
+python-dateutil

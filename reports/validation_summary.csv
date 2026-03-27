@@ -1,0 +1,4 @@
+table_name,row_count,column_count,duplicate_rows,missing_values
+patients,550,3,0,0
+visits,1635,5,0,0
+measures,550,4,0,0
